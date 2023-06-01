@@ -1,0 +1,14 @@
+[ignore]
+.*/lib/.*
+.*/dist/.*
+.*/coverage/.*
+.*/resources/.*
+
+[include]
+
+[libs]
+
+[options]
+
+[version]
+^0.68.0

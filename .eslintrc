@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "fbjs",
+    "prettier",
+    "prettier/flowtype"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "max-len": [1, 100],
+    "no-multiple-empty-lines": 1
+  }
+}
